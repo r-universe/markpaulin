@@ -1,0 +1,10 @@
+{
+  "id": 69770725,
+  "created_at": "2025-06-04T20:42:13.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["markpaulin.r-universe.dev"]
+}
